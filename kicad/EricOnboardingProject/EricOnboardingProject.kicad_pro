@@ -714,7 +714,7 @@
         "uuid": "dff3cfde-4775-47a0-871e-26e88704f259"
       }
     ],
-    "used_designators": "R1",
+    "used_designators": "R1-2,U1,L1",
     "variants": []
   },
   "sheets": [
@@ -724,13 +724,13 @@
     ]
   ],
   "text_variables": {
-    "MRC_CONTRIBUTORS": "logan fick",
-    "MRC_DATE": "9/1/2026",
+    "MRC_CONTRIBUTORS": "Eric Greene",
+    "MRC_DATE": "9/22/2026",
     "MRC_DESC_1": "line one",
     "MRC_DESC_2": "line two",
     "MRC_REVISION": "1.0",
-    "MRC_SUBSYSTEM": "Comms",
-    "MRC_TITLE": "Comms Example Board"
+    "MRC_SUBSYSTEM": "Boost Converter",
+    "MRC_TITLE": "12V-24V Boost Converter"
   },
   "tuning_profiles": {
     "meta": {
