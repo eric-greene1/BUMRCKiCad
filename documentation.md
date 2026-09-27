@@ -5,7 +5,7 @@ Step 2: Watch YouTube tutorials on inductors and boost converter to better under
 Step 3: Begin value calculations - find desired resistors by creating a Python program to calculate them
 (see C:\Users\erict\OneDrive\Desktop\BUProjects\BUMRCBoostConverter\R2R1ResistanceRatioCopy.ipynb for referenced code)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - Current Stage - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Step 4: Create the schematic on KiCad
 
