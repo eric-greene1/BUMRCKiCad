@@ -1475,6 +1475,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "^Formerly\n1500pf"
+		(exclude_from_sim no)
+		(at 117.856 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "03278154-884f-4458-9783-f8f6ec76672a")
+	)
+	(text "R1 and R2 updated \nto fit given parts"
+		(exclude_from_sim no)
+		(at 102.616 119.126 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f1afa70f-d16f-4ad7-b4c6-d5425163e3cb")
+	)
 	(junction
 		(at 149.86 81.28)
 		(diameter 0)
@@ -1904,7 +1924,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "82Ω"
+		(property "Value" "100Ω + 10Ω +10Ω"
 			(at 133.35 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2541,7 +2561,7 @@
 				)
 			)
 		)
-		(property "Value" "1500Ω"
+		(property "Value" "2200Ω"
 			(at 137.16 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2941,7 +2961,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1500pf"
+		(property "Value" "680pf"
 			(at 113.03 94.1069 0)
 			(show_name no)
 			(do_not_autoplace no)

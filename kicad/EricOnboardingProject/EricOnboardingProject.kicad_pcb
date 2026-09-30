@@ -617,7 +617,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C1"
-			(at 1.25 -4.4 0)
+			(at -0.04 -2.54 0)
 			(layer "F.SilkS")
 			(uuid "cfb81d65-e524-44c3-b2f2-5f865ffd98f3")
 			(effects
@@ -2627,7 +2627,7 @@
 				)
 			)
 		)
-		(property "Value" "1500pf"
+		(property "Value" "680pf"
 			(at 2.5 2.5 90)
 			(layer "F.Fab")
 			(uuid "9e883de0-5fa5-4b1d-a93e-5e46ebd32196")
@@ -2827,7 +2827,7 @@
 				)
 			)
 		)
-		(property "Value" "82Ω"
+		(property "Value" "100+10+10Ω"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
 			(uuid "52fa55b4-adbe-4975-ab32-8e3a66ad3e85")
@@ -3333,7 +3333,7 @@
 				)
 			)
 		)
-		(property "Value" "1500Ω"
+		(property "Value" "2200Ω"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
 			(uuid "78d12bb1-88ef-4172-9c8f-f148008456a7")
@@ -4867,6 +4867,17 @@
 					(xy 156.438443 136.812767) (xy 156.510444 136.805551) (xy 156.602391 136.780985) (xy 156.646538 136.762575)
 					(xy 156.653649 136.766332)
 				)
+			)
+		)
+	)
+	(gr_text "100uf"
+		(at 139.7 134.62 0)
+		(layer "F.Fab")
+		(uuid "4d9bbdad-2bed-4394-8c71-4d74ea9b8cdf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)
