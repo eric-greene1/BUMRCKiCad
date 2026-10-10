@@ -8,11 +8,10 @@ Step 3: Begin value calculations - find desired resistors by creating a Python p
 Step 4: Create the schematic on KiCad
 
 Step 5: Using the schematic, create the PCB setup resembling the perf board
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Currently here ^^^
 
-Step 5: Receive approval from electrical team lead
+Step 6: Receive approval from electrical team lead
 
-Step 6: Solder at SiLab
+Step 7: Solder at SiLab
 
-Step 7: Test the boost converter with a DC power supply and a 24V fan
+Step 8: Test the boost converter with a DC power supply and a 24V fan
+Done!
